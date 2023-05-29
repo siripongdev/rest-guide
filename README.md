@@ -11,7 +11,7 @@
 
 Rest Guide Project is a simple project to study how Laravel works under Vue framework. The project will show the google map. The current version will show google map only. The next version will allow user to search restaurant by name on the google map with google auto complete search.
 
-On the project will make me understand why Laravel with Vue is accessible, powerful, and provides tools required for large, robust applications.
+The project make me more understand why Laravel with Vue is accessible, powerful, and provides tools required for large, robust applications.
 
 ## How to run the project
 
