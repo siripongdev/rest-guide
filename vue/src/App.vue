@@ -1,0 +1,30 @@
+<script setup>
+//import ShowMap component 
+import ShowMap from './components/ShowMap.vue'
+</script>
+
+<template>
+  <div>
+    <input v-text="search" value="Search"/>
+    <div>
+      <ShowMap msg="Google map" />
+    </div>
+  </div>
+</template>
+
+
+
+<style scoped>
+.logo {
+  height: 6em;
+  padding: 1.5em;
+  will-change: filter;
+  transition: filter 300ms;
+}
+.logo:hover {
+  filter: drop-shadow(0 0 2em #646cffaa);
+}
+.logo.vue:hover {
+  filter: drop-shadow(0 0 2em #42b883aa);
+}
+</style>
